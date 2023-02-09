@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying.... feat-4 fuk' 
+                echo 'Deploying.... feat-4' 
             }
         }
     }
