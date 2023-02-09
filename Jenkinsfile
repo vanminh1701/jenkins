@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying.... feat-3 funck'
+                echo 'Deploying.... feat-3'
             }
         }
     }
