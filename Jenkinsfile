@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying.... feat-4-4444 sassa' 
+                echo 'Deploying.... feat-4-4444' 
             }
         }
     }
